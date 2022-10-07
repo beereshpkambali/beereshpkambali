@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Post Graduation of Non Coding Course 😆
 - 💞️ I’m looking to collaborate with All Intresting GitHub Codes 😆
 - 📫 You can reach me by Contacting here👇
-<h3 align="center">𝘾𝙊𝙉𝙏𝘼𝘾𝙏 𝙈𝙀 𝙃𝙀𝙍𝙀<img align="center" src="https://github.com/PANDITHAN/PANDITHAN/blob/main/assets/Handshake.gif" height="33px" /></h3>
+<h3 align="center">𝘾𝙊𝙉𝙏𝘼𝘾𝙏 𝙈𝙀 𝙃𝙀𝙍𝙀<img align="center" src="https://raw.githubusercontent.com/PANDITHAN/PANDITHAN/main/assets/Handshake.gif" height="33px" /></h3>
 <p align="center">
 <a href="https://t.me/i_am_Mr_Abnormal"><img alt="Telegram" src="https://img.shields.io/badge/ME-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
