@@ -28,9 +28,9 @@
   </a>
 </p>
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
+
 <p align="center">
 <a href="https://youtube.com/channel/UCjXAdU8aMQLvHsRsO5tluAA">
-  <img src="https://img.shields.io/badge/Subscribe-black?logo=youtube" width="180">
+  <img src="https://img.shields.io/badge/Subscribe-red?logo=youtube" width="180">
 </p>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
