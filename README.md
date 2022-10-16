@@ -13,7 +13,9 @@
 <a href="https://t.me/I_am_Mr_Abnormal"><img alt="Telegram" src="https://img.shields.io/badge/Mr|| Abnormal-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
 </p>
 
-<br><p align="center"> <a href="https://github.com/beereshpkambali"><img src="https://github-profile-trophy.vercel.app/?username=beereshpkambali&theme=juicyfresh&no-frame=true&column=6&" alt="Jisin0" /></a> </b></p>
+<br><p align="center"><b>𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬</b></p> 
+
+<p align="center"> <a href="https://github.com/beereshpkambali"><img src="https://github-profile-trophy.vercel.app/?username=beereshpkambali&theme=juicyfresh&no-frame=true&column=6&" alt="Jisin0" /></a></p>
 
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api/?username=beereshpkambali&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
