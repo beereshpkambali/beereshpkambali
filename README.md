@@ -7,10 +7,9 @@
 <br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{beereshpkambali}/count.svg"/></p> 
 
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ranibennur_fighting_sheep)
- [![Youtube](https://img.shields.io/badge/Youtube-%23E4405F.svg?logo=Youtube&logoColor=white)](https://youtube.com/channel/UCjXAdU8aMQLvHsRsO5tluAA)
-
-<a href="https://t.me/I_am_Mr_Abnormal"><img alt="Telegram" src="https://img.shields.io/badge/Mr|| Abnormal-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
+ [![Instagram](https://img.shields.io/badge/Instagram-FF9933.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ranibennur_fighting_sheep)
+<br> [![Youtube](https://img.shields.io/badge/Youtube-FFFFFF.svg?logo=Youtube&logoColor=red)](https://youtube.com/channel/UCjXAdU8aMQLvHsRsO5tluAA)
+<br> <a href="https://t.me/I_am_Mr_Abnormal"><img alt="Telegram" src="https://img.shields.io/badge/Mr|| Abnormal-%FF9933?style=for-the-badge&logo=telegram&logoColor=green"/></a>
 </p>
 
 <br><p align="center"><b>𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬</b></p> 
