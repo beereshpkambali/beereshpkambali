@@ -35,3 +35,5 @@
 <a href="https://youtube.com/channel/UCjXAdU8aMQLvHsRsO5tluAA">
   <img src="https://img.shields.io/badge/Subscribe-red?logo=youtube" width="180">
 </p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
