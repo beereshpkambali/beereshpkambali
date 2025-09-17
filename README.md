@@ -38,5 +38,4 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
-<vid src="https://envs.sh/s/o3V0rwSP0HFx-1ewGnUpOQ/chV.mp4?raw=true" />
-
+<video id="player" class="player" src="https://envs.sh/s/o3V0rwSP0HFx-1ewGnUpOQ/chV.mp4" type="video/mp4" playsinline controls></video>
